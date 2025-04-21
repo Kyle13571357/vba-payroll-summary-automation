@@ -33,3 +33,4 @@ All data references are anonymized and safe for public viewing. Column headers a
 
 - `generate_annual_summary.bas` – Core macro module for building the summary table
 - (Optional) `README.md` – This file
+> ⚠️ This macro is tightly coupled with proprietary worksheet layouts used in a real-world internal system, and may not run correctly without the original data structure. The logic is still presented here for illustration purposes.
